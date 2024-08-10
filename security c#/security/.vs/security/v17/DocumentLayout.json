@@ -1,0 +1,649 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JuanDa\\source\\repos\\security\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Migrations\\20240810202100_cua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity\\Migrations\\20240810202100_cua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|c:\\users\\juanda\\source\\repos\\security\\entity\\model\\security\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|solutionrelative:entity\\model\\security\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|c:\\users\\juanda\\source\\repos\\security\\entity\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|solutionrelative:entity\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|c:\\users\\juanda\\source\\repos\\security\\entity\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|c:\\users\\juanda\\source\\repos\\security\\web\\controllers\\implements\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|solutionrelative:web\\controllers\\implements\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|c:\\users\\juanda\\source\\repos\\security\\data\\implements\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|solutionrelative:data\\implements\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|c:\\users\\juanda\\source\\repos\\security\\bussines\\security\\implements\\userbussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|solutionrelative:bussines\\security\\implements\\userbussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|c:\\users\\juanda\\source\\repos\\security\\entity\\dto\\viewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\viewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|c:\\users\\juanda\\source\\repos\\security\\entity\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Migrations\\20240810201104_tre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity\\Migrations\\20240810201104_tre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|c:\\users\\juanda\\source\\repos\\security\\entity\\model\\security\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|solutionrelative:entity\\model\\security\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|c:\\users\\juanda\\source\\repos\\security\\entity\\model\\security\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|solutionrelative:entity\\model\\security\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Migrations\\20240810200658_segun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity\\Migrations\\20240810200658_segun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Migrations\\20240810200240_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity\\Migrations\\20240810200240_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|c:\\users\\juanda\\source\\repos\\security\\web\\controllers\\interface\\iusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|solutionrelative:web\\controllers\\interface\\iusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|c:\\users\\juanda\\source\\repos\\security\\data\\implements\\role_viewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|solutionrelative:data\\implements\\role_viewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|c:\\users\\juanda\\source\\repos\\security\\data\\interface\\iuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|solutionrelative:data\\interface\\iuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|c:\\users\\juanda\\source\\repos\\security\\bussines\\security\\interface\\iuserbussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|solutionrelative:bussines\\security\\interface\\iuserbussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Migrations\\20240810193922_tres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity\\Migrations\\20240810193922_tres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Migrations\\20240810193635_segundo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity\\Migrations\\20240810193635_segundo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|c:\\users\\juanda\\source\\repos\\security\\web\\controllers\\implements\\role_viewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|solutionrelative:web\\controllers\\implements\\role_viewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|c:\\users\\juanda\\source\\repos\\security\\bussines\\security\\implements\\role_viewbussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|solutionrelative:bussines\\security\\implements\\role_viewbussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|c:\\users\\juanda\\source\\repos\\security\\data\\implements\\roledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|solutionrelative:data\\implements\\roledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|c:\\users\\juanda\\source\\repos\\security\\entity\\dto\\rol_viewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\rol_viewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|c:\\users\\juanda\\source\\repos\\security\\entity\\model\\security\\role_view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5C6033-EC91-45A1-8D27-67BB95677C6E}|Entity\\Entity.csproj|solutionrelative:entity\\model\\security\\role_view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|c:\\users\\juanda\\source\\repos\\security\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Migrations\\20240810190840_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity\\Migrations\\20240810190840_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|c:\\users\\juanda\\source\\repos\\security\\web\\controllers\\implements\\departamentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|solutionrelative:web\\controllers\\implements\\departamentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|c:\\users\\juanda\\source\\repos\\security\\web\\controllers\\implements\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|solutionrelative:web\\controllers\\implements\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|c:\\users\\juanda\\source\\repos\\security\\web\\controllers\\implements\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1879AC3-E48D-49CC-BA81-F05EE12C1056}|Web\\Web.csproj|solutionrelative:web\\controllers\\implements\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|c:\\users\\juanda\\source\\repos\\security\\data\\implements\\citydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|solutionrelative:data\\implements\\citydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|c:\\users\\juanda\\source\\repos\\security\\data\\implements\\countrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|solutionrelative:data\\implements\\countrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|c:\\users\\juanda\\source\\repos\\security\\data\\implements\\departamentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCF4B6C-BFDA-4E4A-A327-C05EB447BCC1}|Data\\Data.csproj|solutionrelative:data\\implements\\departamentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|c:\\users\\juanda\\source\\repos\\security\\bussines\\security\\interface\\idepartamentbussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|solutionrelative:bussines\\security\\interface\\idepartamentbussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|c:\\users\\juanda\\source\\repos\\security\\bussines\\security\\implements\\departamentbussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|solutionrelative:bussines\\security\\implements\\departamentbussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|c:\\users\\juanda\\source\\repos\\security\\bussines\\security\\implements\\countrybussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|solutionrelative:bussines\\security\\implements\\countrybussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|c:\\users\\juanda\\source\\repos\\security\\bussines\\security\\implements\\citybussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CB0961-B34F-47EB-9CAB-01F7DEDC07AE}|Bussines\\Bussines.csproj|solutionrelative:bussines\\security\\implements\\citybussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240810202100_cua.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Migrations\\20240810202100_cua.cs",
+              "RelativeDocumentMoniker": "Entity\\Migrations\\20240810202100_cua.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Migrations\\20240810202100_cua.cs",
+              "RelativeToolTip": "Entity\\Migrations\\20240810202100_cua.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:21:00.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\DTO\\RoleDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\RoleDto.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\DTO\\RoleDto.cs",
+              "RelativeToolTip": "Entity\\DTO\\RoleDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:09:37.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Data\\Implements\\UserData.cs",
+              "RelativeDocumentMoniker": "Data\\Implements\\UserData.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Data\\Implements\\UserData.cs",
+              "RelativeToolTip": "Data\\Implements\\UserData.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAgwH8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:14:22.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "View.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Model\\Security\\View.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Security\\View.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Model\\Security\\View.cs",
+              "RelativeToolTip": "Entity\\Model\\Security\\View.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:12:48.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Role_ViewData.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Data\\Implements\\Role_ViewData.cs",
+              "RelativeDocumentMoniker": "Data\\Implements\\Role_ViewData.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Data\\Implements\\Role_ViewData.cs",
+              "RelativeToolTip": "Data\\Implements\\Role_ViewData.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAxwFsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:49:41.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserBussines.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Bussines\\Security\\Implements\\UserBussines.cs",
+              "RelativeDocumentMoniker": "Bussines\\Security\\Implements\\UserBussines.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Bussines\\Security\\Implements\\UserBussines.cs",
+              "RelativeToolTip": "Bussines\\Security\\Implements\\UserBussines.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAgwJwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:14:14.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Model\\Security\\User.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Security\\User.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Model\\Security\\User.cs",
+              "RelativeToolTip": "Entity\\Model\\Security\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:12:30.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\UserDto.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\DTO\\UserDto.cs",
+              "RelativeToolTip": "Entity\\DTO\\UserDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:30:36.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewDto.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\DTO\\ViewDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\ViewDto.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\DTO\\ViewDto.cs",
+              "RelativeToolTip": "Entity\\DTO\\ViewDto.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:10:15.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Web\\Controllers\\Implements\\UserController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Implements\\UserController.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Web\\Controllers\\Implements\\UserController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Implements\\UserController.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAgwIoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:09:21.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Entity\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Entity\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwCsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:53:17.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240810201104_tre.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Migrations\\20240810201104_tre.cs",
+              "RelativeDocumentMoniker": "Entity\\Migrations\\20240810201104_tre.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Migrations\\20240810201104_tre.cs",
+              "RelativeToolTip": "Entity\\Migrations\\20240810201104_tre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:11:04.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Rol_ViewDto.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\DTO\\Rol_ViewDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\Rol_ViewDto.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\DTO\\Rol_ViewDto.cs",
+              "RelativeToolTip": "Entity\\DTO\\Rol_ViewDto.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:22:06.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserBussines.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Bussines\\Security\\Interface\\IUserBussines.cs",
+              "RelativeDocumentMoniker": "Bussines\\Security\\Interface\\IUserBussines.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Bussines\\Security\\Interface\\IUserBussines.cs",
+              "RelativeToolTip": "Bussines\\Security\\Interface\\IUserBussines.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAywBgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:26:53.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserData.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Data\\Interface\\IUserData.cs",
+              "RelativeDocumentMoniker": "Data\\Interface\\IUserData.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Data\\Interface\\IUserData.cs",
+              "RelativeToolTip": "Data\\Interface\\IUserData.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:26:59.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Model\\Security\\Role.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Security\\Role.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Model\\Security\\Role.cs",
+              "RelativeToolTip": "Entity\\Model\\Security\\Role.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:12:44.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240810200658_segun.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Migrations\\20240810200658_segun.cs",
+              "RelativeDocumentMoniker": "Entity\\Migrations\\20240810200658_segun.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Migrations\\20240810200658_segun.cs",
+              "RelativeToolTip": "Entity\\Migrations\\20240810200658_segun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:06:59.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240810200240_inicial.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Migrations\\20240810200240_inicial.cs",
+              "RelativeDocumentMoniker": "Entity\\Migrations\\20240810200240_inicial.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Migrations\\20240810200240_inicial.cs",
+              "RelativeToolTip": "Entity\\Migrations\\20240810200240_inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:02:40.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240810193922_tres.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Migrations\\20240810193922_tres.cs",
+              "RelativeDocumentMoniker": "Entity\\Migrations\\20240810193922_tres.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Migrations\\20240810193922_tres.cs",
+              "RelativeToolTip": "Entity\\Migrations\\20240810193922_tres.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:39:22.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserController.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Web\\Controllers\\Interface\\IUserController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Interface\\IUserController.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Web\\Controllers\\Interface\\IUserController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Interface\\IUserController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:49:29.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RoleData.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Data\\Implements\\RoleData.cs",
+              "RelativeDocumentMoniker": "Data\\Implements\\RoleData.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Data\\Implements\\RoleData.cs",
+              "RelativeToolTip": "Data\\Implements\\RoleData.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:22:14.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240810193635_segundo.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Migrations\\20240810193635_segundo.cs",
+              "RelativeDocumentMoniker": "Entity\\Migrations\\20240810193635_segundo.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Migrations\\20240810193635_segundo.cs",
+              "RelativeToolTip": "Entity\\Migrations\\20240810193635_segundo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:36:36.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Role_ViewBussines.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Bussines\\Security\\Implements\\Role_ViewBussines.cs",
+              "RelativeDocumentMoniker": "Bussines\\Security\\Implements\\Role_ViewBussines.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Bussines\\Security\\Implements\\Role_ViewBussines.cs",
+              "RelativeToolTip": "Bussines\\Security\\Implements\\Role_ViewBussines.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAgwGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:10:27.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Role_ViewController.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Web\\Controllers\\Implements\\Role_ViewController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Implements\\Role_ViewController.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Web\\Controllers\\Implements\\Role_ViewController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Implements\\Role_ViewController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAQwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:49:37.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Web\\appsettings.json",
+              "RelativeToolTip": "Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-10T18:39:39.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Role_View.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Model\\Security\\Role_View.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Security\\Role_View.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Model\\Security\\Role_View.cs",
+              "RelativeToolTip": "Entity\\Model\\Security\\Role_View.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:12:37.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240810190840_inicial.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Migrations\\20240810190840_inicial.cs",
+              "RelativeDocumentMoniker": "Entity\\Migrations\\20240810190840_inicial.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Entity\\Migrations\\20240810190840_inicial.cs",
+              "RelativeToolTip": "Entity\\Migrations\\20240810190840_inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:08:40.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DepartamentController.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Web\\Controllers\\Implements\\DepartamentController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Implements\\DepartamentController.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Web\\Controllers\\Implements\\DepartamentController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Implements\\DepartamentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:41:32.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Web\\Controllers\\Implements\\CountryController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Implements\\CountryController.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Web\\Controllers\\Implements\\CountryController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Implements\\CountryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:41:31.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Web\\Controllers\\Implements\\CityController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Implements\\CityController.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Web\\Controllers\\Implements\\CityController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Implements\\CityController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:41:30.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CountryData.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Data\\Implements\\CountryData.cs",
+              "RelativeDocumentMoniker": "Data\\Implements\\CountryData.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Data\\Implements\\CountryData.cs",
+              "RelativeToolTip": "Data\\Implements\\CountryData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:40:49.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DepartamentData.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Data\\Implements\\DepartamentData.cs",
+              "RelativeDocumentMoniker": "Data\\Implements\\DepartamentData.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Data\\Implements\\DepartamentData.cs",
+              "RelativeToolTip": "Data\\Implements\\DepartamentData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:40:48.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IDepartamentBussines.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Bussines\\Security\\Interface\\IDepartamentBussines.cs",
+              "RelativeDocumentMoniker": "Bussines\\Security\\Interface\\IDepartamentBussines.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Bussines\\Security\\Interface\\IDepartamentBussines.cs",
+              "RelativeToolTip": "Bussines\\Security\\Interface\\IDepartamentBussines.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:40:26.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DepartamentBussines.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Bussines\\Security\\Implements\\DepartamentBussines.cs",
+              "RelativeDocumentMoniker": "Bussines\\Security\\Implements\\DepartamentBussines.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Bussines\\Security\\Implements\\DepartamentBussines.cs",
+              "RelativeToolTip": "Bussines\\Security\\Implements\\DepartamentBussines.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:40:20.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CountryBussines.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Bussines\\Security\\Implements\\CountryBussines.cs",
+              "RelativeDocumentMoniker": "Bussines\\Security\\Implements\\CountryBussines.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Bussines\\Security\\Implements\\CountryBussines.cs",
+              "RelativeToolTip": "Bussines\\Security\\Implements\\CountryBussines.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:40:18.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CityBussines.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Bussines\\Security\\Implements\\CityBussines.cs",
+              "RelativeDocumentMoniker": "Bussines\\Security\\Implements\\CityBussines.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Bussines\\Security\\Implements\\CityBussines.cs",
+              "RelativeToolTip": "Bussines\\Security\\Implements\\CityBussines.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:40:11.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CityData.cs",
+              "DocumentMoniker": "C:\\Users\\JuanDa\\source\\repos\\security\\Data\\Implements\\CityData.cs",
+              "RelativeDocumentMoniker": "Data\\Implements\\CityData.cs",
+              "ToolTip": "C:\\Users\\JuanDa\\source\\repos\\security\\Data\\Implements\\CityData.cs",
+              "RelativeToolTip": "Data\\Implements\\CityData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:39:59.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
